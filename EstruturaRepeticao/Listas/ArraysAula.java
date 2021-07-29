@@ -12,8 +12,10 @@ public class ArraysAula {
         nomes[1] = "Vegeta";
         nomes[2] = "Gohan";
 
+//nomes.length => retornar o tamanho do array
+
         for (int i = 0; i < 3; i++){
-            
+
             System.out.println(nomes[i]);
         }
         
