@@ -9,4 +9,9 @@ public class Calculadora {
     public void multiplicaDoisNumeros(int num1, int num2){
         System.out.println(num1 * num2);
     }
+
+    public double DivideDoisNumeros(double num1, double num2){
+
+        return num1/num2;
+    }
 }
