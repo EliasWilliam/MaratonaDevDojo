@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.Estruturas;
 
 public class EstruturaRepeticao {
     public static void main(String[] args){

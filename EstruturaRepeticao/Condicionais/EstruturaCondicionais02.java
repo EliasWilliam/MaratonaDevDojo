@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.Condicionais;
 
 public class EstruturaCondicionais02 {
 

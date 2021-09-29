@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.Table;
 
 public class Tableless {
 

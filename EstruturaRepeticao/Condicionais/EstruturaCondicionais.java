@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.Condicionais;
 
 public class EstruturaCondicionais {
     // Imprima o dia da semana, considerando 1 como domingo

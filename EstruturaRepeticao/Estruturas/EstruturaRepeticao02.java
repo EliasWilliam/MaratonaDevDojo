@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.Estruturas;
 
 public class EstruturaRepeticao02 {
     

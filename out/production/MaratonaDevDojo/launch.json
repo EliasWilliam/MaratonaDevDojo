@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaCondicionais",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.EstruturaCondicionais",
+            "projectName": "LacoRepeticao_d343dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaCondicionais02",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.EstruturaCondicionais02",
+            "projectName": "LacoRepeticao_d343dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaFor",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.EstruturaFor",
+            "projectName": "LacoRepeticao_d343dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaRepeticao",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.EstruturaRepeticao",
+            "projectName": "LacoRepeticao_d343dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch LacoRepeticao",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.LacoRepeticao",
+            "projectName": "LacoRepeticao_d343dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tableless",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.Tableless",
+            "projectName": "LacoRepeticao_d343dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "EstruturaRepeticao.TiposPrimitivos",
+            "projectName": "LacoRepeticao_d343dc07"
+        }
+    ]
+}

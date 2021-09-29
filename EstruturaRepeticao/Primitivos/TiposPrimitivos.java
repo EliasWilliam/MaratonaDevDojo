@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.Primitivos;
 
 public class TiposPrimitivos {
     
