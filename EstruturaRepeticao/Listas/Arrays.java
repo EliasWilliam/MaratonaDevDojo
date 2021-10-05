@@ -1,6 +1,6 @@
 package EstruturaRepeticao.Listas;
 
-public class Arrayas {
+public class Arrays {
     public static void main(String[] args) {
 
         int[] idades = new int [3];
